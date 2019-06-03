@@ -12,7 +12,7 @@ The dependencies needed:
 * tornado
 * bokeh
 
-> Requirements.txt Listed all the dependencies I used. So don't run `pip3 install -r requirements.txt` if you want to install all the dependencies.
+> Requirements.txt Listed all the dependencies I used. So don't run `pip3 install -r requirements.txt` unless you want to install all the dependencies.
 
 # Usage
 
