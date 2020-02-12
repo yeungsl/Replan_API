@@ -23,7 +23,7 @@ cssselect==1.0.1
 cycler==0.10.0
 decorator==4.0.11
 -e git+https://github.com/NREL/ditto.git@62f04b9a4516d8791fbd8edfa33f364da3ba9937#egg=ditto
-Django==2.2.1
+Django==2.2.10
 django-admin==1.3.2
 django-excel-response2==2.0.8
 django-six==1.0.4
